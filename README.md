@@ -37,5 +37,6 @@ class Skills extends Desenvolvedor {
 
 ## ⭐ GitHub Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=Yuri-augusto&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Yuri-augusto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-augusto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
