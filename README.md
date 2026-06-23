@@ -1,4 +1,4 @@
-<img src="https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-logotipo-do-linux.png?w=360" alt="ilustração Linuxlogo" min-width="400px" max-width="400px" width="400px" align="right"> >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/3840px-Arch_Linux_%22Crystal%22_icon.svg.png" min-width="200px" max-width="200px" width="280px" align="right">
 
 ```js
 import Desenvolvedor from "Yuriinfinite";
@@ -37,5 +37,6 @@ class Skills extends Desenvolvedor {
 
 ## ⭐ GitHub Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=Yuri-augusto&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Yuri-augusto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-augusto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
