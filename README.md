@@ -1,3 +1,4 @@
+<hr>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/3840px-Arch_Linux_%22Crystal%22_icon.svg.png" min-width="200px" max-width="200px" width="280px" align="right">
 
 ```js
@@ -40,3 +41,4 @@ class Skills extends Desenvolvedor {
 [![card](https://github-readme-stats.vercel.app/api?username=Yuri-augusto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-augusto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
